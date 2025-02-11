@@ -59,8 +59,6 @@ Konfigurasi pipeline dengan Jenkins ⚙️ untuk:
 ---
 
 ## Contact Person 📞
-📱 **Abi**: 082141552591  
-📱 **Alfina**: 081339597687
  | Nama  | Contact |
 |-------|----------|
 | 📱 **Abi** | [Whatsapp](https://wa.me/+6282141552591)   |
